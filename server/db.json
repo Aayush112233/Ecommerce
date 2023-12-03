@@ -1,16 +1,4 @@
 {
-  "users": [
-    {
-      "firstName": "Aayush",
-      "lastName": "Neupane",
-      "email": "aayushneupane55@gmail.com",
-      "phoneNumber": "9745615605",
-      "permanentAddress": "Hattiban",
-      "temporaryAddress": "Setipakha",
-      "password": "Aayush12",
-      "confirmPassword": "Aayush12",
-      "id": 1
-    }
-  ],
+  "users": [],
   "carts": []
 }
